@@ -2,6 +2,7 @@ LearningPython
 ==============
 
 Zip-to-Dropbox:
+==============
 
 To run this app you need a dropbox developer account to get an app key and app secret, 
 create a new Dropbox API app and select files and datastores and private folder = yes
@@ -14,4 +15,4 @@ Required:
 Syntax:
   python zipdrop.py file/to/zip
 
-==============
+
