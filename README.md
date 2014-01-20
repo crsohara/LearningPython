@@ -15,5 +15,6 @@ Required:
 Syntax:
   python zipdrop.py file/to/zip
 
-download_and_set_top_reddit_wallpaper.py
+get_set_wallpaper.py
 ========================================
+A small script to download this months top wallpapers from /r/wallpapers subreddit and then set a random one as your desktop background
