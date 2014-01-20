@@ -12,6 +12,6 @@ Required:
   https://www.dropbox.com/developers/downloads/sdks/core/python/dropbox-python-sdk-2.0.0.zip
 
 Syntax:
-  python zipdrop.py <file/to/zip>
+  python zipdrop.py file/to/zip
 
 ==============
